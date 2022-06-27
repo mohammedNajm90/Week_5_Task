@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Week_5_Task</string>
+    <string name="font_name">DM Sans</string>
+    <string name="name_person">Ahmed hassan</string>
+    <string name="cert">Engineer</string>
+    <string name="voit">4.5</string>
+    <string name="numhour">3 hr</string>
+    <string name="country">Russian</string>
+    <string name="seen_date">5 Days ago</string>
+    <string name="count_reviews">(150 Reviews)</string>
+    <string name="postion">UK</string>
+</resources>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="width_height.font_attr.font_weight400">
+        <item name="android:textFontWeight">400</item>
+    </style>
+    <style name="width_height.font_attr.font_weight500">
+        <item name="android:textFontWeight">500</item>
+    </style>
+    <style name="width_height.font_attr.font_weight700">
+        <item name="android:textFontWeight">700</item>
+    </style>
+    <style name="width_height.font_attr.font_weight400.layout_gravity">
+        <item name="android:layout_gravity">end</item>
+    </style>
+    <style name="width_height.font_attr.font_weight500.layout_gravity">
+        <item name="android:layout_gravity">end</item>
+    </style>
+</resources>

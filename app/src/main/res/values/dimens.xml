@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_end_size">16dp</dimen>
+    <dimen name="margin_start_size">12dp</dimen>
+    <dimen name="margin_top_size">8dp</dimen>
+    <dimen name="paddings_size">8dp</dimen>
+    <dimen name="image_width">93dp</dimen>
+    <dimen name="image_height">93dp</dimen>
+    <dimen name="image_corner_radius">8dp</dimen>
+    <dimen name="margin_start">10dp</dimen>
+    <dimen name="name_font_size">16sp</dimen>
+    <dimen name="banner_height">128dp</dimen>
+    <dimen name="sub_info_text_size">12sp</dimen>
+    <dimen name="margin_end_text">4dp</dimen>
+    <dimen name="star_width">16dp</dimen>
+    <dimen name="star_height">16dp</dimen>
+    <dimen name="padding_start_num_hr">8dp</dimen>
+    <dimen name="padding_end_num_hr">8dp</dimen>
+    <dimen name="padding_bottom_num_hr">4dp</dimen>
+    <dimen name="padding_top_num_hr">4dp</dimen>
+    <dimen name="padding_top_5_day">6dp</dimen>
+    <dimen name="padding_top_russian">6dp</dimen>
+    <dimen name="width_location_icon">10dp</dimen>
+    <dimen name="height_location_icon">12dp</dimen>
+    <dimen name="margin_top_location_icon">2dp</dimen>
+    <dimen name="numhr">37dp</dimen>
+    <dimen name="margintopinfovote">9dp</dimen>
+</resources>
